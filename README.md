@@ -19,84 +19,74 @@ I'm passionate about transforming complex challenges into innovative AI-driven s
  
 ## 💻 Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,gcp,fastapi,flask,mongodb,postgres,mysql,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,fastapi,flask,mongodb,postgres,mysql,git,github,postman)](https://skillicons.dev)
 
 ---
- 
-### Development Expertise
- 
-- **Full Stack Web Development**  
 
-  Building robust web applications using Python, Django, and the MERN stack.
+## Development Expertise
 
-- **API Development**  
+- **AI/ML Development**  
+   Developing and fine-tuning ML models for NLP (e.g., Sentiment Analysis, Topic Modeling) and Computer Vision (e.g., OCR, Object Detection) using TensorFlow, PyTorch, Hugging Face Transformers, and LLMs for chatbot assistants.
 
-  Creating secure and efficient APIs with Django Rest Framework and Node.js.
 
-- **Front-End Development**  
+- **MLOps & Deployment**  
+  Managing MLOps pipelines with MLflow, Airflow, ZenML, DagsHub, Docker, Kubernetes, and deploying models on AWS EC2 for scalable solutions.
 
-  Crafting responsive and interactive user interfaces with ReactJS and Bootstrap.
+- **Backend Development**  
+  Building scalable APIs with FastAPI, Flask, and integrating databases like PostgreSQL, MySQL, and MongoDB.
 
-- **Back-End Development**  
+- **Natural Language Processing (NLP)**  
+  Expertise in tokenization, lemmatization, NER, text classification, zero-shot classification using SpaCy, TextBlob, NLTK, Gensim.
 
-  Offering reliable server-side logic and database solutions with Python and Node.js.
+- **Data Analysis & Visualization**  
+  Advanced data analysis and visualization with Pandas, NumPy, Matplotlib, Plotly and Seaborn for insights and model optimization.
+
+- **Version Control & CI/CD**  
+  Ensuring workflow efficiency with Git, Jenkins, Linux, and automating CI/CD pipelines with Termius.
 
 - **Database Management**  
+  Proficient in managing large-scale datasets with PostgreSQL, MySQL, MongoDB, and vector databases (Qdrant, Chroma, Faiss).
 
-  Efficiently managing databases like MySQL, SQLite, and MongoDB.
-
-- **Version Control System**  
-
-  Managing codebase efficiently with Git for smooth collaboration.
-
-- **Testing and Debugging**  
-
-  Providing thorough testing and debugging services for optimal performance.
-
-- **Postman API Testing**  
-
-  Ensuring API functionality with thorough testing using Postman.
+- **Computer Vision**  
+  Skilled in Image Classification, Object Detection, and Semantic Segmentation for extracting insights from visual data.
  
 ---
  
 ### 🏆 Professional Experience  
  
-#### Frontend Developer | **K2X Tech**  
+#### ML Engineer | **K2X Tech**  
 
-**Apr 2024 - Present** (On-site)  
+**Feb 2024 - Present** (On-site)  
 
-Currently working full-time as a Frontend Developer, specializing in creating dynamic and responsive web applications. Utilizing modern technologies to deliver high-quality user experiences.
- 
+Currently working full-time as a Machine Learning Engineer, specializing in developing and fine-tuning machine learning models for NLP and Computer Vision tasks. Additionally, I work on building scalable backend APIs and managing MLOps pipelines. I leverage cloud technologies (AWS, Docker, Kubernetes) for seamless deployment and scaling of models to production, ensuring efficient end-to-end solutions.
+
 #### Junior Full Stack Developer | **ERISP IT Services**  
 
 **Jan 2024 - Mar 2024** (On-site)  
 
 Managed both backend and frontend tasks, including involvement in Python Odoo projects. Contributed to diverse projects and expanded technical skills.
- 
-#### Full Stack Developer | **Abasyn University**  
 
-**Feb 2023 - Sep 2023** (On-site)  
+#### Research Assistant | **DIP Lab ICUP**  
+**Aug 2022 - Feb 2024**  
 
-Worked in a hybrid environment, managing comprehensive development tasks for university projects. Enhanced both backend and frontend functionalities.
- 
-#### Intern | Full Stack Developer | **ItecExperts Pvt Ltd**  
+Contributed as a Research Assistant at DIP Lab ICUP, specializing in creating and preprocessing datasets for NLP tasks. Engaged in advanced AI research, implementing cutting-edge algorithms, publishing research articles, and reviewing academic manuscripts.
 
-**Jul 2022 - Jan 2023** (On-site)  
+#### Publication  
+**IEEE Access**  
 
-Gained hands-on experience in end-to-end application development, actively contributing to multiple projects. Strengthened skills in both frontend and backend technologies.
+Khan, A., Ahmed, A., Jan, S., Bilal, M. and Zuhairi, M.F., 2024. Abusive Language Detection in Urdu Text: Leveraging Deep 
+Learning and Attention Mechanism. IEEE Access.
  
 ---
  
 ## 📫 Contact Me  
 
-- 📞 **Phone:** +923453035433  
+- 📞 **Phone:** +923335433879 
 
-- ✉️ **Email:** farman.developer786@gmail.com  
+- ✉️ **Email:** abrarahmedislamians@gmail.com 
 
-- 🌐 **Portfolio:** [farman-resume.netlify.app](https://farman-resume.netlify.app)  
- 
 ---
  
-© 2024 Farman Ullah
+© 2024 Abrar Ahmed
 
  
