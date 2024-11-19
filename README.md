@@ -78,8 +78,6 @@ https://ieeexplore.ieee.org/document/10445262
  
 ## 📫 Contact Me  
 
-- 📞 **Phone:** +923335433879 
-
 - ✉️ **Email:** abrarahmedislamians@gmail.com 
 
 ---
