@@ -1,8 +1,11 @@
-# Hi 👋, My name is Farman Ullah
+# Hi 👋, My name is Abrar Ahmed
 
-## Full Stack Developer
- 
-I'm a Full Stack Developer proficient in Python, Django, Django Rest Framework, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in building robust, user-friendly web applications and creating efficient APIs.  
+## Software Engineer Specializing in AI/ML and MLOps
+
+I'm a Software Engineer strong focus on Artificial Intelligence (AI), Machine Learning (ML), and MLOps. I'm passionate about building intelligent systems. My expertise spans across Natural Language Processing (NLP), Computer Vision, Deep Learning, and Transformer-based model including Large Language Models (LLMs) and Large Vision Models (LVMs). My expertise includes designing, fine-tuning, and deploying machine learning models for tasks like NLP, Computer Vision, and predictive analytics. 
+I specialize in building scalable and production-ready AI solutions, leveraging frameworks like PyTorch, TensorFlow, and Hugging Face Transformers. My work often involves end-to-end MLOps pipelines, including data processing, model training, version control, and deployment using tools like Docker, Kubernetes, and AWS.
+
+I'm passionate about transforming complex challenges into innovative AI-driven solutions!
  
 - 🌱 I’m currently learning Next.js
 
