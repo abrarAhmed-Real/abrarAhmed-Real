@@ -19,7 +19,7 @@ I'm passionate about transforming complex challenges into innovative AI-driven s
  
 ## 💻 Skills  
 
- [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,gcp,fastapi,flask,mongodb,sqlite,git,github,postman,react)(https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,gcp,fastapi,flask,mongodb,postgres,mysql,git,github,postman)](https://skillicons.dev)
 
 ---
  
